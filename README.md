@@ -1,10 +1,9 @@
 # basic
-practice code library
 
-Diretory Hierarchy
+> practice code library
 
-basic--
-	|
-	--- DS_Implementations
-	|
-	--- Algo_Implementations
+Directories:
+- [DataStructures](https://github.com/evilVito/basic/DataStructures)
+- [Algorithms](https://github.com/evilVito/basic/Algorithms) 	 
+
+ 	 
